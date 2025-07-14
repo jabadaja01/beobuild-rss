@@ -1,1 +1,1 @@
-"# Beobuild RSS feed" 
+"# Beobuild RSS" 
